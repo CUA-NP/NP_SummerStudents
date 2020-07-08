@@ -1,7 +1,7 @@
 Welcome to Summer Research at CUA!
 ====
 
-**2020 Projects**
+## **2020 Projects**
 * Global fitting of pion and kaon data (Mina, Leslie) - use a suitable software to fit the data with a suitable fit form. Report the fit and the goodness of the fit. You may need to do some online research on fitting techniques and uncertainty reporting.
 ** [unsep_kaon](weekly_work/7_6_2020/pion_kaon_data/unsep_kaon.dat)
 ** [unsep_pion](weekly_work/7_6_2020/pion_kaon_data/unsep_pion.dat)
@@ -12,8 +12,8 @@ Welcome to Summer Research at CUA!
 ** [Aerogel_10cm_X_10cm_X_1cm_01](weekly_work/7_6_2020/aerogel_data/Aerogel_10cm_X_10cm_X_1cm_01.stp) - aerogel tile with cutout for fiberglass
 ** [Fiber_glass_mesh](weekly_work/7_6_2020/aerogel_data/Fiber_glass_mesh.stp)
 
-**[Weekly Work](weekly_work)**
+## **[Weekly Work](weekly_work)**
 * [Week of July $$7^{th}$$, 2020](weekly_work/7_6_2020)
 ** [Assignments](weekly_work/7_6_2020/weekly_assignments.md)
 
-**[References](references)**
+## **[References](references)**
