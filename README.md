@@ -6,13 +6,14 @@ Welcome to Summer Research at CUA!
 ** [unsep_kaon](weekly_work/7_6_2020/pion_kaon_data/unsep_kaon.dat)
 ** [unsep_pion](weekly_work/7_6_2020/pion_kaon_data/unsep_pion.dat)
 ** Please also include the new kaon data from the file [PhysRevC97](references/sep_kaon_sig_FF_6_GeV.pdf)
+
 * Mechanical performance of aerogel material (Sahnnee)- find a suitable mechanical software to open and modify the attached files. There are many possible options! The goal will be to have models of aerogel tiles with different configurations of fiber glass mesh and to analyze their mechanical performance.
 ** [Aerogel_10cm_X_10cm_X_1cm](weekly_work/7_6_2020/aerogel_data/Aerogel_10cm_X_10cm_X_1cm.stp) - aerogel tile with no modification
 ** [Aerogel_10cm_X_10cm_X_1cm_01](weekly_work/7_6_2020/aerogel_data/Aerogel_10cm_X_10cm_X_1cm_01.stp) - aerogel tile with cutout for fiberglass
 ** [Fiber_glass_mesh](weekly_work/7_6_2020/aerogel_data/Fiber_glass_mesh.stp)
 
 **[Weekly Work](weekly_work)**
-* [Week of July $7^{th}$, 2020](weekly_work/7_6_2020)
+* [Week of July $$7^{th}$$, 2020](weekly_work/7_6_2020)
 ** [Assignments](weekly_work/7_6_2020/weekly_assignments.md)
 
 **[References](references)**
