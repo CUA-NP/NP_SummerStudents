@@ -1,4 +1,4 @@
-# Welcome to CUA's Nuclear Physics Summer Research!
+# Nuclear Physics Summer Research at CUA
 
 ## 2020 Projects
 * **Global fitting of pion and kaon data (Mina, Leslie)** - use a suitable software to fit the data with a suitable fit form. Report the fit and the goodness of the fit. You may need to do some online research on fitting techniques and uncertainty reporting.
