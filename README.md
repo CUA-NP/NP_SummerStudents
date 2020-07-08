@@ -12,7 +12,7 @@
     * [Fiber_glass_mesh](weekly_work/7_6_2020/aerogel_data/Fiber_glass_mesh.stp)
 
 ## [Weekly Work](weekly_work)
-* **[Week of July \(7^{th}\), 2020](weekly_work/7_6_2020)**
+* **[Week of July 7<sup>th<\sup>, 2020](weekly_work/7_6_2020)**
     * [Assignments](weekly_work/7_6_2020/weekly_assignments.md)
 
 ## [References](references)
