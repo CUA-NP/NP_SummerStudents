@@ -107,6 +107,7 @@ Jupyter is very easy to use. The hardest part is the syntax, but that's why we h
 
 ![](jnb_files/jnb_1.png)
 
+%matplotlib inline
 <a id='python'></a>
 ## Introduction to Python
 
