@@ -16,3 +16,7 @@
     * [Assignments](weekly_work/7_6_2020/weekly_assignments.md)
 
 ## [References](references)
+* [About Jlab](https://www.jlab.org/about)
+* [About EIC](https://www.nationalacademies.org/news/2018/07/a-domestic-electron-ion-collider-would-unlock-scientific-mysteries-of-atomic-nuclei-maintain-us-leadership-in-accelerator-science-new-report-says)
+* [About nuclear physics](https://particleadventure.org/)
+* [CUA wiki](http://www.vsl.cua.edu/cua_phy/index.php/MainPage:Nuclear:Summer2020)
