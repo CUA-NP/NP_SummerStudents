@@ -14,6 +14,9 @@
 ## [Weekly Work](weekly_work)
 * **[Week of July 7<sup>th</sup>, 2020](weekly_work/7_6_2020)**
     * [Assignments](weekly_work/7_6_2020/weekly_assignments.md)
+    * [Solutions to exercise 1](weekly_work/7_6_2020/exercise_soln/exercise_1.ipynb)
+* **[Week of July 13<sup>th</sup>, 2020](weekly_work/7_13_2020)**
+    * [Assignments](weekly_work/7_13_2020/weekly_assignments.md)    
 
 ## [References](references)
 * [About Jlab](https://www.jlab.org/about)
