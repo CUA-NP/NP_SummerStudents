@@ -23,6 +23,8 @@
     * [Assignments](weekly_work/7_20_2020/weekly_assignments.md)       
 * **[Week of July 27<sup>th</sup>, 2020](weekly_work/7_27_2020)**
     * [Assignments](weekly_work/7_27_2020/weekly_assignments.md)           
+* **[Week of August 3<sup>rd</sup>, 2020](weekly_work/8_3_2020)**
+    * [Assignments](weekly_work/8_3_2020/weekly_assignments.md)               
 
 ## [References](references)
 * [About Jlab](https://www.jlab.org/about)
