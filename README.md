@@ -1,11 +1,12 @@
 # Nuclear Physics Summer Research at CUA
 
-## 2021 Projects   
+## [2021 Projects](https://www.vsl.cua.edu/cua_phy/index.php/MainPage:Nuclear:Summer2021)
 
 ## [Weekly Work](weekly_work)
 * **[Week of June 1<sup>st</sup>, 2021](weekly_work/6_1_2021)**
     * [Talks](weekly_work/6_1_2021/talks)
         * [Tanja's Intro](weekly_work/6_1_2021/talks/Tanja_CUA-NP-Summer2021-06012021-intro.pdf)
+        * [Petr's Talk](weekly_work/6_1_2021/talks/Petr_presentation-2021-06-01-linux-terminal.pdf)
     * [Assignments](weekly_work/6_1_2021/weekly_assignments.md)
 
 ## [References](references)
