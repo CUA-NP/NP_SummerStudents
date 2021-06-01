@@ -1,16 +1,6 @@
 # Nuclear Physics Summer Research at CUA
 
 ## 2021 Projects   
-* Josh
-    * Design of a calorimeter cooling system (engineering)
-    * Design and evaluation of fiber reinforced aerogel (engineering)
-
-* Petr
-    * Scientific Modeling of novel electromagnetic calorimeters (Monte Carlo methods)
-
-* Richard
-    * Towards the origin of mass with light mesons - kaonLT analysis (Python)
-    * Artificial Intelligence for Detector Optimization in Nuclear Physics (Python)
 
 ## [Weekly Work](weekly_work)
 * **[Week of June 1<sup>st</sup>, 2021](weekly_work/6_1_2021)**
