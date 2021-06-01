@@ -20,6 +20,7 @@
 ## [References](references)
 * [About Jlab](https://www.jlab.org/about)
 * [About EIC](https://www.nationalacademies.org/news/2018/07/a-domestic-electron-ion-collider-would-unlock-scientific-mysteries-of-atomic-nuclei-maintain-us-leadership-in-accelerator-science-new-report-says)
+    * [EIC Yellow Report](https://userweb.jlab.org/~doug/yr-jan2021/EIC_YR_FULL.pdf)
 * [About nuclear physics](https://particleadventure.org/)
 * [CUA wiki](http://www.vsl.cua.edu/cua_phy/index.php/MainPage:Nuclear:Summer2021)
 * [Slack Channel](https://cua-reu-2021.slack.com/)
