@@ -1,12 +1,25 @@
 # Nuclear Physics Summer Research at CUA
 
-## 2021 Projects
+## 2021 Projects   
+* Josh
+    * Design of a calorimeter cooling system (engineering)
+    * Design and evaluation of fiber reinforced aerogel (engineering)
 
-## [Weekly Work](weekly_work)    
+* Petr
+    * Scientific Modeling of novel electromagnetic calorimeters (Monte Carlo methods)
+
+* Richard
+    * Towards the origin of mass with light mesons - kaonLT analysis (Python)
+    * Artificial Intelligence for Detector Optimization in Nuclear Physics (Python)
+
+## [Weekly Work](weekly_work)
+* **[Week of June 1<sup>st</sup>, 2021](weekly_work/6_1_2021)**
+    * [Talks](weekly_work/6_1_2021/talks)
+    * [Assignments](weekly_work/6_1_2021/weekly_assignments.md)
 
 ## [References](references)
 * [About Jlab](https://www.jlab.org/about)
 * [About EIC](https://www.nationalacademies.org/news/2018/07/a-domestic-electron-ion-collider-would-unlock-scientific-mysteries-of-atomic-nuclei-maintain-us-leadership-in-accelerator-science-new-report-says)
 * [About nuclear physics](https://particleadventure.org/)
-* [CUA wiki](http://www.vsl.cua.edu/cua_phy/index.php/MainPage:Nuclear:Summer2020)
+* [CUA wiki](http://www.vsl.cua.edu/cua_phy/index.php/MainPage:Nuclear:Summer2021)
 * [Slack Channel](https://cua-reu-2021.slack.com/)
