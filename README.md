@@ -5,6 +5,7 @@
 ## [Weekly Work](weekly_work)
 * **[Week of June 1<sup>st</sup>, 2021](weekly_work/6_1_2021)**
     * [Talks](weekly_work/6_1_2021/talks)
+        * [Tanja's Intro](weekly_work/6_1_2021/talks/Tanja_CUA-NP-Summer2021-06012021-intro.pdf)
     * [Assignments](weekly_work/6_1_2021/weekly_assignments.md)
 
 ## [References](references)
