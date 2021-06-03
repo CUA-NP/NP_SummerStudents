@@ -5,8 +5,9 @@
 ## [Weekly Work](weekly_work)
 * **[Week of June 1<sup>st</sup>, 2021](weekly_work/6_1_2021)**
     * [Talks](weekly_work/6_1_2021/talks)
-        * [Tanja's Intro](weekly_work/6_1_2021/talks/Tanja_CUA-NP-Summer2021-06012021-intro.pdf)
-        * [Petr's Talk](weekly_work/6_1_2021/talks/Petr_presentation-2021-06-01-linux-terminal.pdf)
+        * [Tanja's intro](weekly_work/6_1_2021/talks/Tanja_CUA-NP-Summer2021-06012021-intro.pdf)
+        * [Petr's command line intro](weekly_work/6_1_2021/talks/Petr_presentation-2021-06-01-linux-terminal.pdf)
+        * [Richard's python intro](weekly_work/6_1_2021/talks/Richard_py_intro.ipynb)
     * [Assignments](weekly_work/6_1_2021/weekly_assignments.md)
 
 ## [References](references)
