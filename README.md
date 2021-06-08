@@ -9,6 +9,10 @@
         * [Petr's command line intro](weekly_work/6_1_2021/talks/Petr_presentation-2021-06-01-linux-terminal.pdf)
         * [Richard's python intro](weekly_work/6_1_2021/talks/Richard_py_intro.ipynb)
     * [Assignments](weekly_work/6_1_2021/weekly_assignments.md)
+* **[Week of June 8<sup>th</sup>, 2021](weekly_work/6_8_2021)**
+    * [Talks](weekly_work/6_8_2021/talks)
+        * [David](weekly_work/6_8_2021/talks/David_Z_Research group and topics.pptx)
+    * [Assignments](weekly_work/6_8_2021/weekly_assignments.md)    
 
 ## [References](references)
 * [About Jlab](https://www.jlab.org/about)
