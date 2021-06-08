@@ -11,7 +11,7 @@
     * [Assignments](weekly_work/6_1_2021/weekly_assignments.md)
 * **[Week of June 8<sup>th</sup>, 2021](weekly_work/6_8_2021)**
     * [Talks](weekly_work/6_8_2021/talks)
-        * [David](weekly_work/6_8_2021/talks/David_Z_Research group and topics.pptx)
+        * [David](weekly_work/6_8_2021/talks/David_Z_Research_6_8.pptx)
     * [Assignments](weekly_work/6_8_2021/weekly_assignments.md)    
 
 ## [References](references)
