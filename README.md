@@ -14,6 +14,7 @@
     * [Talks](weekly_work/6_8_2021/talks)
         * [David](weekly_work/6_8_2021/talks/David_Z_Research_6_8.pptx)
         * [Richard's Python Tutorial 2](weekly_work/6_8_2021/talks/Richard_py_tutorial2.ipynb)
+        * [Petr's overview of Computing Environment Tutorial](weekly_work/6_8_2021/talks/presentation-2021-06-jlab-geant-root-outline.pdf). Tutorial will be held on June 17.
     * [Assignments](weekly_work/6_8_2021/weekly_assignments.md)    
 
 ## [References](references)
