@@ -9,9 +9,11 @@
         * [Petr's command line intro](weekly_work/6_1_2021/talks/Petr_presentation-2021-06-01-linux-terminal.pdf)
         * [Richard's python intro](weekly_work/6_1_2021/talks/Richard_py_intro.ipynb)
     * [Assignments](weekly_work/6_1_2021/weekly_assignments.md)
+    * [Solutions](weekly_work/6_1_2021/exercise_soln/exercise1.ipynb)
 * **[Week of June 8<sup>th</sup>, 2021](weekly_work/6_8_2021)**
     * [Talks](weekly_work/6_8_2021/talks)
         * [David](weekly_work/6_8_2021/talks/David_Z_Research_6_8.pptx)
+        * [Richard's Python Tutorial 2](weekly_work/6_8_2021/talks/Richard_py_tutorial2.ipynb)
     * [Assignments](weekly_work/6_8_2021/weekly_assignments.md)    
 
 ## [References](references)

@@ -1,0 +1,119 @@
+Run #: 5151
+
+**************************
+* General Run Information
+**************************
+Beam energy : 10.596500
+Target mass (amu) : 1.007940 
+
+HMS Particle Mass : 0.000511
+HMS P Central : 3.266000
+HMS Angle : -12.530000
+
+SHMS Particle Mass : 0.493677
+SHMS P Central : 6.842000
+SHMS Angle : 6.495000
+
+SHMS Run Length   : 741.857
+HMS  Run Length   : 741.857
+
+********************
+* DAQ Configuration
+********************
+
+Ps1_factor = 513
+Ps2_factor = -1
+Ps3_factor = -1
+Ps4_factor = -1
+Ps5_factor = -1
+
+Run #: 5152
+
+**************************
+* General Run Information
+**************************
+Beam energy : 10.596500
+Target mass (amu) : 1.007940 
+
+HMS Particle Mass : 0.000511
+HMS P Central : 3.266000
+HMS Angle : -12.530000
+
+SHMS Particle Mass : 0.493677
+SHMS P Central : 6.842000
+SHMS Angle : 6.495000
+
+SHMS Run Length   : 772.054
+HMS  Run Length   : 772.054
+
+********************
+* DAQ Configuration
+********************
+
+Ps1_factor = 513
+Ps2_factor = -1
+Ps3_factor = -1
+Ps4_factor = -1
+Ps5_factor = -1
+Ps6_factor = -1
+
+
+Run #: 5153
+
+**************************
+* General Run Information
+**************************
+Beam energy : 10.596500
+Target mass (amu) : 1.007940 
+
+HMS Particle Mass : 0.000511
+HMS P Central : 3.266000
+HMS Angle : -12.530000
+
+SHMS Particle Mass : 0.493677
+SHMS P Central : 6.842000
+SHMS Angle : 6.495000
+
+SHMS Run Length   : 746.880
+HMS  Run Length   : 746.880
+
+********************
+* DAQ Configuration
+********************
+
+Ps1_factor = -1
+Ps2_factor = -1
+Ps3_factor = 65
+Ps4_factor = -1
+Ps5_factor = -1
+Ps6_factor = -1
+
+Run #: 5154
+
+**************************
+* General Run Information
+**************************
+Beam energy : 10.585000
+Target mass (amu) : 12.010700 
+
+HMS Particle Mass : 0.000511
+HMS P Central : 3.266000
+HMS Angle : -12.530000
+
+SHMS Particle Mass : 0.493677
+SHMS P Central : 6.842000
+SHMS Angle : 6.495000
+
+SHMS Run Length   : 798.599
+HMS  Run Length   : 798.599
+
+********************
+* DAQ Configuration
+********************
+
+Ps1_factor = 257
+Ps2_factor = -1
+Ps3_factor = 65
+Ps4_factor = -1
+Ps5_factor = -1
+Ps6_factor = -1
