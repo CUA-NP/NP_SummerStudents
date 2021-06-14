@@ -14,7 +14,10 @@
     * [Talks](weekly_work/6_8_2021/talks)
         * [David](weekly_work/6_8_2021/talks/David_Z_Research_6_8.pptx)
         * [Richard's Python Tutorial 2](weekly_work/6_8_2021/talks/Richard_py_tutorial2.ipynb)
-    * [Assignments](weekly_work/6_8_2021/weekly_assignments.md)    
+    * [Assignments](weekly_work/6_8_2021/weekly_assignments.md)
+* **[Week of June 15<sup>th</sup>, 2021](weekly_work/6_15_2021)**
+    * [Talks](weekly_work/6_15_2021/talks)
+    * [Assignments](weekly_work/6_15_2021/weekly_assignments.md)    
 
 ## [References](references)
 * [About Jlab](https://www.jlab.org/about)
