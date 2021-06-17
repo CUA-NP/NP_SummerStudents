@@ -20,7 +20,6 @@
     * [Talks](weekly_work/6_15_2021/talks)
         * [Nilanga's ROOT Tutorial](weekly_work/6_15_2021/talks/presentation-2021-06-17-jlab-geant-root.pdf)
         * [Petr's computing environment tutorial](weekly_work/6_15_2021/talks/presentation-2021-06-17-jlab-geant-root.pdf)
-        
     * [Assignments](weekly_work/6_15_2021/weekly_assignments.md)
 
 ## [References](references)
