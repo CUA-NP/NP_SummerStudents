@@ -18,7 +18,7 @@
     * [Assignments](weekly_work/6_8_2021/weekly_assignments.md)
 * **[Week of June 15<sup>th</sup>, 2021](weekly_work/6_15_2021)**
     * [Talks](weekly_work/6_15_2021/talks)
-        * [Nilanga's ROOT Tutorial](weekly_work/6_15_2021/talks/presentation-2021-06-17-jlab-geant-root.pdf)
+        * [Nilanga's ROOT Tutorial](weekly_work/6_15_2021/talks/root_tutorial_06_17.pdf)
         * [Petr's computing environment tutorial](weekly_work/6_15_2021/talks/presentation-2021-06-17-jlab-geant-root.pdf)
     * [Assignments](weekly_work/6_15_2021/weekly_assignments.md)
 
