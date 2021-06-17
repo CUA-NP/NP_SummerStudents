@@ -8,7 +8,7 @@
 * Run through exercise outlined in [Richard's introduction]((weekly_work/6_1_2021/talks/Richard_py_intro.ipynb))
 
 ## Nilanga
-1. Install ROOT on your computer using a binary distribution or source.
+1. [Install ROOT on your computer](https://root.cern/install/) using a binary distribution or source.
 2. Produce a histogram randomly filled with 50000 entries with a Gaussian function of mean = 1.0 GeV and sigma = 50 MeV and 1000 bins from 0.5-1.5 GeV.
 3. Label the axes assuming you’re plotting a mass spectrum of a resonance.
 4. Try two coarser binning options for histogram from the editor and
