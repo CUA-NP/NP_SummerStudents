@@ -13,12 +13,15 @@
 * **[Week of June 8<sup>th</sup>, 2021](weekly_work/6_8_2021)**
     * [Talks](weekly_work/6_8_2021/talks)
         * [David](weekly_work/6_8_2021/talks/David_Z_Research_6_8.pptx)
-        * [Richard's Python Tutorial 2](weekly_work/6_8_2021/talks/Richard_py_tutorial2.ipynb)
-        * [Petr's overview of Computing Environment Tutorial](weekly_work/6_8_2021/talks/presentation-2021-06-jlab-geant-root-outline.pdf). Tutorial will be held on June 17.
+        * [Richard's python tutorial 2](weekly_work/6_8_2021/talks/Richard_py_tutorial2.ipynb)
+        * [Petr's overview of computing environment tutorial](weekly_work/6_8_2021/talks/presentation-2021-06-jlab-geant-root-outline.pdf). Tutorial will be held on June 17.
     * [Assignments](weekly_work/6_8_2021/weekly_assignments.md)
 * **[Week of June 15<sup>th</sup>, 2021](weekly_work/6_15_2021)**
     * [Talks](weekly_work/6_15_2021/talks)
-    * [Assignments](weekly_work/6_15_2021/weekly_assignments.md)    
+        * [Nilanga's ROOT Tutorial](weekly_work/6_15_2021/talks/presentation-2021-06-17-jlab-geant-root.pdf)
+        * [Petr's computing environment tutorial](weekly_work/6_15_2021/talks/presentation-2021-06-17-jlab-geant-root.pdf)
+        
+    * [Assignments](weekly_work/6_15_2021/weekly_assignments.md)
 
 ## [References](references)
 * [About Jlab](https://www.jlab.org/about)
