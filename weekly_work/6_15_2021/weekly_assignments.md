@@ -17,7 +17,7 @@ compare the fit results (use the Gaussian for the fit).
 
 ## Petr
 ### Geant4 practice
-* Check out the [GEANT4 YouTube Mini Course by Jing Liu](https://www.youtube.com/c/PhysinoXyz/about). Tutorial covers installation of GEANT4 on your local computer and basic framework use.
+* Check out the [GEANT4 YouTube Mini Course by Jing Liu](https://youtube.com/playlist?list=PLw3G-vTgPrdBtrdWML8j7dYhylZDSgU1j). Tutorial covers installation of GEANT4 on your local computer and basic framework use.
 * Login to the Computing Farm environment.
     * Copy Geant4 examples to your home folder.
     * Pick a GEANT4 example from `basic` folder.
