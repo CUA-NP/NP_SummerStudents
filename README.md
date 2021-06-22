@@ -21,6 +21,10 @@
         * [Nilanga's ROOT Tutorial](weekly_work/6_15_2021/talks/root_tutorial_06_17.pdf)
         * [Petr's computing environment tutorial](weekly_work/6_15_2021/talks/presentation-2021-06-17-jlab-geant-root.pdf)
     * [Assignments](weekly_work/6_15_2021/weekly_assignments.md)
+* **[Week of June 22<sup>nd</sup>, 2021](weekly_work/6_22_2021)**
+    * [Talks](weekly_work/6_22_2021/talks)
+        * [Richard's KaonLT Overview](weekly_work/6_22_2021/talks/Richard_KaonLTSummerStudents2021.pdf)
+    * [Assignments](weekly_work/6_22_2021/weekly_assignments.md)
 
 ## [References](references)
 * [About Jlab](https://www.jlab.org/about)
