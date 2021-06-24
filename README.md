@@ -24,6 +24,7 @@
 * **[Week of June 22<sup>nd</sup>, 2021](weekly_work/6_22_2021)**
     * [Talks](weekly_work/6_22_2021/talks)
         * [Richard's KaonLT Overview](weekly_work/6_22_2021/talks/Richard_KaonLTSummerStudents2021.pdf)
+        * [Richard's Python Tutorial 3](weekly_work/6_22_2021/talks/Richard_py_tutorial3.ipynb)
     * [Assignments](weekly_work/6_22_2021/weekly_assignments.md)
 
 ## [References](references)
