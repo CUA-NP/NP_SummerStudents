@@ -26,6 +26,9 @@
         * [Richard's KaonLT Overview](weekly_work/6_22_2021/talks/Richard_KaonLTSummerStudents2021.pdf)
         * [Richard's Python Tutorial 3](weekly_work/6_22_2021/talks/Richard_py_tutorial3.ipynb)
     * [Assignments](weekly_work/6_22_2021/weekly_assignments.md)
+* **[Week of June 29<sup>th</sup>, 2021](weekly_work/6_29_2021)**
+    * [Talks](weekly_work/6_29_2021/talks)
+    * [Assignments](weekly_work/6_29_2021/weekly_assignments.md)
 
 ## [References](references)
 * [About Jlab](https://www.jlab.org/about)
