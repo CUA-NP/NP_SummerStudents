@@ -32,6 +32,9 @@
 * **[Week of July 6<sup>th</sup>, 2021](weekly_work/7_6_2021)**
     * [Talks](weekly_work/7_6_2021/talks)
     * [Assignments](weekly_work/7_6_2021/weekly_assignments.md)	
+* **[Week of July 13<sup>th</sup>, 2021](weekly_work/7_13_2021)**
+    * [Talks](weekly_work/7_13_2021/talks)
+    * [Assignments](weekly_work/7_13_2021/weekly_assignments.md)	
 
 ## [References](references)
 * [About Jlab](https://www.jlab.org/about)
