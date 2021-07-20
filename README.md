@@ -36,6 +36,9 @@
     * [Talks](weekly_work/7_13_2021/talks)
         * [Richard's Python Tutorial 4](weekly_work/7_13_2021/talks/Richard_py_tutorial4.ipynb)
     * [Assignments](weekly_work/7_13_2021/weekly_assignments.md)	
+* **[Week of July 20<sup>th</sup>, 2021](weekly_work/7_20_2021)**
+    * [Talks](weekly_work/7_20_2021/talks)
+    * [Assignments](weekly_work/7_20_2021/weekly_assignments.md)	
 
 ## [References](references)
 * [About Jlab](https://www.jlab.org/about)
