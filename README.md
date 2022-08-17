@@ -1,7 +1,7 @@
 # Nuclear Physics Summer Research at CUA
 
 ## 2022 Projects
-### [Student Projects](student_projects)
+* [Student Projects](student_projects)
 
 ## [Weekly Work](weekly_work)
 
