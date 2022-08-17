@@ -1,8 +1,10 @@
 # Nuclear Physics Summer Research at CUA
 
-## 202X Projects
+## 2022 Projects
 
 ## [Weekly Work](weekly_work)
+
+## [Student Projects](student_projects)
 
 ## [References](references)
 * [About Jlab](https://www.jlab.org/about)
